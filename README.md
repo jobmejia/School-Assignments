@@ -1,15 +1,11 @@
 # Microsoft Software & Systems Academy Project - RECERT 
 
 ### About the Project:
-Recert's purpose is to be able keep track of the users Certification as well as give them a reminder that they have to recertify within a certain timeframe
-The users will be able to enter their current certificates and expiration dates, Recert will then be giving the users reminders of when their recertification is coming up.
+Recert's purpose is to be able keep track of the users Certification. users be able to enter their current certificates and expiration dates, Recert will then be giving the users reminders of when their recertification is coming up.
 They will also be given resources in order to prepare for the certification or recertification. 
 
-As for the Employers, they will have access to their employees certifications, due dates and be able to request new certificates for their employees.
-Recert Admin will then be able to Approve or deny the companies request based on requirements for the Certification.
-For Future uses I plan on being able to assist users with their Security Clearences to provide resources, document tracking, status updates, and reminders to the users to help ease the clearance process.
 
-## Overall Goal of Application
+## Objective of the Application
 Web Application to be able to track a users certificates as well as a countdown to give the users a headsup when its time to recertify.
 
 ### Application Walkthrough
@@ -32,17 +28,17 @@ Web Application to be able to track a users certificates as well as a countdown 
 |       ---             |     ---                               |     ---       |        ---            |
 |       2.0             | Feedback Page                         |     ---       |        ---            |
 |       2.1             | Page shows feedback form for user     |   Yes         |       No              |
-|       2.2             | Users can input messages to admin     |   Yes         |       No              |
-|       2.3             | Users can input name to admin         |   Yes         |       No              |
-|       2.4             | Users can input email information     |   Yes         |       No              |
-|       2.5             | Users can request to be contacted     |   Yes         |       No              |
-|       2.6             | Users can submit feedback             |   Yes         |       No              |
+|       2.2             | Users can input messages to admin     |   No          |       No              |
+|       2.3             | Users can input name to admin         |   No          |       No              |
+|       2.4             | Users can input email information     |   No          |       No              |
+|       2.5             | Users can request to be contacted     |   No          |       No              |
+|       2.6             | Users can submit feedback             |   No          |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
 |       3.0             | Certificates Page                     |   Yes         |       No              |
-|       3.1             | Users can access Certificate Page     |   Yes         |       No              |
-|       3.2             | Users Add new Certificates            |   Yes         |       No              |
-|       3.3             | Users can delete Certificates         |   Yes         |       No              |
-|       3.4             | Users can see expiration date         |   Yes         |       No              |
+|       3.1             | Users can access Certificate Page     |   No          |       No              |
+|       3.2             | Users Add new Certificates            |   No          |       No              |
+|       3.3             | Users can delete Certificates         |   No          |       No              |
+|       3.4             | Users can see expiration date         |   No          |       No              |
 
 
 
