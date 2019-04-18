@@ -70,5 +70,6 @@ Web Application to be able to track a users certificates as well as a countdown 
 - Users to be able to provide feedback and input the their certifications
 - Email confirmation.
 - Upload Images
+- Countdown for reminders
 
 
