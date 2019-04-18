@@ -5,7 +5,7 @@ Recert's purpose is to be able keep track of the users Certification. Users be a
 They will also be given resources in order to prepare for the certification or recertification. 
 
 ## Recert WebApp Demo Pages: 
-### Home Page:
+#### Home Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Home%20Page.PNG
 ### Register Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Register%20Page.PNG
