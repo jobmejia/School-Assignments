@@ -5,29 +5,29 @@ Recert's purpose is to be able keep track of the users Certification. Users be a
 They will also be given resources in order to prepare for the certification or recertification. 
 
 ## Recert WebApp Demo Pages: 
-# Home Page:
+### Home Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Home%20Page.PNG
-# Register Page:
+### Register Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Register%20Page.PNG
-# Login:
+### Login:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Login%20Page.PNG
-# Home Page Signed In:
+### Home Page Signed In:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Home%20Page%20Signed%20in.PNG
-# Certificates Page:
+### Certificates Page:
 https://firstblob1.blob.core.windows.net/recert/CERTIFICATIONS%20PAGE.PNG
-# Feedback:
+### Feedback:
 https://firstblob1.blob.core.windows.net/recert/FEEDBACK%20PAGE.PNG
 
 ## Visual Studio Screenshot:
-# User Database:
+### User Database:
 https://firstblob1.blob.core.windows.net/recert/User%20DB.PNG
-# Certifications Database:
+### Certifications Database:
 https://firstblob1.blob.core.windows.net/recert/Cert%20DB.PNG
-# Project Folders:
+### Project Folders:
 https://firstblob1.blob.core.windows.net/recert/PROJECTS%20FOLDERS.PNG
 
 https://firstblob1.blob.core.windows.net/recert/PROJECTS%20FOLDERS%202.PNG
-# Unit Test:
+### Unit Test:
 https://firstblob1.blob.core.windows.net/recert/UNIT%20TESTS.PNG
 
 
