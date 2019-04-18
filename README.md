@@ -67,8 +67,8 @@ Web Application to be able to track a users certificates as well as a countdown 
 |       3.4             | Users can see expiration date         |   No          |       No              |
 
 ## Prioritized Backlog List:
-- Users to be able to provide feedback and input the their certification
-- Email confirmations.
-
+- Users to be able to provide feedback and input the their certifications
+- Email confirmation.
+- Upload Images
 
 
