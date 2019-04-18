@@ -7,27 +7,27 @@ They will also be given resources in order to prepare for the certification or r
 ## Recert WebApp Demo Pages: 
 #### Home Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Home%20Page.PNG
-### Register Page:
+#### Register Page:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Register%20Page.PNG
-### Login:
+#### Login:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Login%20Page.PNG
-### Home Page Signed In:
+#### Home Page Signed In:
 https://firstblob1.blob.core.windows.net/recert/Recert%20Home%20Page%20Signed%20in.PNG
-### Certificates Page:
+#### Certificates Page:
 https://firstblob1.blob.core.windows.net/recert/CERTIFICATIONS%20PAGE.PNG
-### Feedback:
+#### Feedback:
 https://firstblob1.blob.core.windows.net/recert/FEEDBACK%20PAGE.PNG
 
 ## Visual Studio Screenshot:
-### User Database:
+#### User Database:
 https://firstblob1.blob.core.windows.net/recert/User%20DB.PNG
-### Certifications Database:
+#### Certifications Database:
 https://firstblob1.blob.core.windows.net/recert/Cert%20DB.PNG
-### Project Folders:
+#### Project Folders:
 https://firstblob1.blob.core.windows.net/recert/PROJECTS%20FOLDERS.PNG
 
 https://firstblob1.blob.core.windows.net/recert/PROJECTS%20FOLDERS%202.PNG
-### Unit Test:
+#### Unit Test:
 https://firstblob1.blob.core.windows.net/recert/UNIT%20TESTS.PNG
 
 
@@ -65,6 +65,8 @@ Web Application to be able to track a users certificates as well as a countdown 
 |       3.2             | Users Add new Certificates            |   No          |       No              |
 |       3.3             | Users can delete Certificates         |   No          |       No              |
 |       3.4             | Users can see expiration date         |   No          |       No              |
+
+## Prioritized Backlog List:
 
 
 
