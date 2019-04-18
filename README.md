@@ -5,7 +5,7 @@ Recert's purpose is to be able keep track of the users Certification. Users be a
 They will also be given resources in order to prepare for the certification or recertification. 
 
 ## Recert WebApp Demo Pages: 
-https://firstblob1.blob.core.windows.net/recert/RecertHomePage.PNG
+https://firstblob1.blob.core.windows.net/recert/Recert Home Page.PNG
 
 ## Objective of the Application
 Web Application to be able to track a users certificates as well as a countdown to give the users a headsup when its time to recertify.
