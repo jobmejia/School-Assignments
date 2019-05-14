@@ -1,8 +1,7 @@
 # Microsoft Software & Systems Academy Project - RECERT 
 
 ### About the Project:
-Recert's purpose is to be able keep track of the users Certification. Users be able to enter their current certificates and expiration dates, Recert will then be giving the users reminders of when their recertification is coming up.
-They will also be given resources in order to prepare for the certification or recertification. 
+Recert's purpose is to be able keep track of the users Certifications. Users be able to enter their current certificates and expiration dates.  
 
 ## Recert WebApp Demo Pages: 
 #### Home Page:
@@ -32,44 +31,41 @@ https://firstblob1.blob.core.windows.net/recert/UNIT%20TESTS.PNG
 
 
 ## Objective of the Application
-Web Application to be able to track a users certificates as well as a countdown to give the users a headsup when its time to recertify.
+Web Application to be able to track a users certifications as an online library for personal certifications.
 
 ### Application Walkthrough
-- On the "Recert" home page you will be able to login/Register to the site as well as test data.
+- On the "Recert" home page you will be able to login/Register as well as get a break down for the app.
 
 - The "Certifications" page will be containing any certifications that a user might have. Future implementation will be to have a trending, recommended certifications *
 
-- With the "Feedback Tab" you can input your name, email and a message and submit feedback to have a better user experience in the future.
+- With the " About Tab" you can input your name, email and a message and submit feedback to have a better user experience in the future.
 
 
 ### Requirements
 |Requirement Number     | Requirement                           | Implemented   | Tested With Unit Test |
 |       :---:           |     ---                               |     :---:     |        :---:          |
-|       1.0             | Home Page                             |    ---        |       ---             | 
-|       1.1             | Page shows login functions            |   Yes         |       Yes             |
-|       1.2             | Login accepts Email                   |   Yes         |       No              |
-|       1.3             | Login accepts Password                |   Yes         |       No              |
-|       1.4             | User Login is accepted                |   Yes         |       No              |
-|       1.5             | Users can access Recert Contact       |   Yes         |       No              |
-|       ---             |     ---                               |     ---       |        ---            |
-|       2.0             | Feedback Page                         |     ---       |        ---            |
-|       2.1             | Page shows feedback form for user     |   Yes         |       No              |
-|       2.2             | Users can input messages to admin     |   No          |       No              |
-|       2.3             | Users can input name to admin         |   No          |       No              |
-|       2.4             | Users can input email information     |   No          |       No              |
-|       2.5             | Users can request to be contacted     |   No          |       No              |
-|       2.6             | Users can submit feedback             |   No          |       No              |
-|       ---             |     ---                               |     ---       |        ---            |
-|       3.0             | Certificates Page                     |   Yes         |       No              |
-|       3.1             | Users can access Certificate Page     |   No          |       No              |
-|       3.2             | Users Add new Certificates            |   No          |       No              |
-|       3.3             | Users can delete Certificates         |   No          |       No              |
-|       3.4             | Users can see expiration date         |   No          |       No              |
+|       1.0             | Home Page                             |      ---      |         ---           | 
+|       1.1             | Page shows login functions            |      Yes      |         Yes           |
+|       1.2             | Login accepts Email                   |      Yes      |         Yes           |
+|       1.3             | Login accepts Password                |      Yes      |         Yes           |
+|       1.4             | User Login is accepted                |      Yes      |         Yes           |
+|       1.5             | Users can access Recert Contact       |      Yes      |         Yes           |
+|       ---             |     ---                               |      ---      |         ---           |
+|       2.0             | Certfications Page                    |      ---      |         ---           |
+|       2.1             | Users can access Certificate Page     |      Yes      |         Yes           |
+|       2.2             | Users Add new Certificates            |      Yes      |         Yes           |
+|       2.3             | Users can delete Certificates         |      Yes      |         Yes           |
+|       2.4             | Users can see expiration date         |      Yes      |         Yes           |
+|       ---             |     ---                               |      ---      |         ---           |
+|       3.0             | About and Contact Page                |      Yes      |         No            |
+|       3.1             | Users can access About Pages          |      No       |         No            |
+|       3.2             | Users can access contact Pages        |      No       |         No            |
+
 
 ## Prioritized Backlog List:
-- Users to be able to provide feedback and input the their certifications
-- Email confirmation.
-- Upload Images
-- Countdown for reminders
+- Creating a reminder for the user
+- Email confirmation
+- Adding certificate images once it has been added.
+
 
 
