@@ -57,9 +57,9 @@ Web Application to be able to track a users certifications as an online library 
 |       2.3             | Users can delete Certificates         |      Yes      |         Yes           |
 |       2.4             | Users can see expiration date         |      Yes      |         Yes           |
 |       ---             |     ---                               |      ---      |         ---           |
-|       3.0             | About and Contact Page                |      Yes      |         No            |
-|       3.1             | Users can access About Pages          |      No       |         No            |
-|       3.2             | Users can access contact Pages        |      No       |         No            |
+|       3.0             | About and Contact Page                |      Yes      |         Yes           |
+|       3.1             | Users can access About Pages          |      Yes      |         Yes           |
+|       3.2             | Users can access contact Pages        |      Yes      |         Yes           |
 
 
 ## Prioritized Backlog List:
