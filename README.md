@@ -38,7 +38,9 @@ Web Application to be able to track a users certifications as an online library 
 
 - The "Certifications" page will be containing any certifications that a user might have. Future implementation will be to have a trending, recommended certifications *
 
-- With the " About Tab" you can input your name, email and a message and submit feedback to have a better user experience in the future.
+- With the " About Tab" you can find information about the application.
+
+- With the "Contact Tab" you can find ways to reach Recert.
 
 
 ### Requirements
